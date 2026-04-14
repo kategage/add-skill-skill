@@ -1,3 +1,4 @@
+---
 name: skill-content-importer
 description: >
   Use this skill when someone shares a link to an external skill, a .md file, a GitHub URL,
